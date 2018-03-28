@@ -43,7 +43,7 @@
     display: none;
     width: 210px;
     height: 210px;
-    background-color: #ff0098;
+    background-color: #B404AE;
     position: absolute;
     left: 16px;
     top: 23px;
@@ -52,7 +52,7 @@
     display: block;
 }
 .singer .detail a{
-    font-size: 28px;
+    font-size: 26px;
     color: white;
     font-weight: bold;
 }
